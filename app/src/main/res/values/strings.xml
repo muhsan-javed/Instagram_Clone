@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Instagram</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="title_app_Name">Instagram</string>
+    <string name="send">this send tool</string>
+    <string name="instatv">this insta tv tool</string>
+    <string name="camera">this camera tool</string>
+
+    <string name="bottom_search">search</string>
+    <string name="bottom_plus">Plus</string>
+    <string name="bottom_heart">Heart</string>
+    <string name="bottom_profile">Profile</string>
+
+</resources>
